@@ -1,0 +1,14 @@
+{
+  "name": "product-manager",
+  "version": "1.0.0",
+  "description": "Tienda web en progreso",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "author": "Maximiliano Suarez",
+  "license": "MIT"
+}
